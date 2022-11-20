@@ -21,10 +21,13 @@
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
+### Github Stats 
 <div display='flex'>
 <img src="https://github-readme-stats.vercel.app/api?username=ENESBERKEINAL&count_private=true&theme=radical&show_icons=true" />
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ENESBERKEINAL&layout=compact />
+<img style={margin-left:'40px'} src=https://github-readme-stats.vercel.app/api/top-langs/?username=ENESBERKEINAL&layout=compact />
 </div>
+
+### Jokes 
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
