@@ -1,8 +1,12 @@
 ### Hi there 👋
-
+### I am Enes Berke Inal
 <!--
 **ENESBERKEINAL/ENESBERKEINAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=ENESBERKEINAL&count_private=true&theme=radical&show_icons=true" />
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ENESBERKEINAL&layout=compact />
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
