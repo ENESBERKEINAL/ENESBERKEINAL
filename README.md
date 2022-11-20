@@ -24,7 +24,7 @@
 ### Github Stats 
 <div display='flex'>
 <img src="https://github-readme-stats.vercel.app/api?username=ENESBERKEINAL&count_private=true&theme=radical&show_icons=true" />
-<img style={margin-left:'40px'} src=https://github-readme-stats.vercel.app/api/top-langs/?username=ENESBERKEINAL&layout=compact />
+<img style="margin-left:40px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=ENESBERKEINAL&layout=compact />
 </div>
 
 ### Jokes 
