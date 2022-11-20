@@ -22,7 +22,17 @@
 
 🧰 Toolbox
 <br />
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NESTJS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NODE Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-original.svg" alt="CB Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="YARN Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="INTELIJ Logo" width="50" height="50"/>
 
 
 <br /><br /><br /><br />
