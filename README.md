@@ -29,9 +29,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="JAVA Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" width="50" height="50"/>
-
 <img src="https://user-images.githubusercontent.com/45769212/202933603-7bbbc0d3-cc52-4df7-aba5-4c2b96012b0d.png" alt="Docker Logo" width="50" height="50"/>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-original.svg" alt="CB Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="YARN Logo" width="50" height="50"/>
