@@ -23,10 +23,10 @@
 
 ### Github Stats 
 <div display='flex'>
-  <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=ENESBERKEINAL&count_private=true&theme=radical&show_icons=true" /> <div />
-  <div>
-      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ENESBERKEINAL&layout=compact style="margin:40px" /> <div />
+  
+      <img src="https://github-readme-stats.vercel.app/api?username=ENESBERKEINAL&count_private=true&theme=radical&show_icons=true" /> 
+
+      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ENESBERKEINAL&layout=compact style="margin:40px" /> 
 </div>
 
 ### Jokes 
