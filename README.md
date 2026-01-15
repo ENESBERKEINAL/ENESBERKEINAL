@@ -23,7 +23,7 @@
 🧰 Toolbox
 <br /><br />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="NESTJS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="NESTJS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NODE Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS Logo" width="50" height="50"/>
