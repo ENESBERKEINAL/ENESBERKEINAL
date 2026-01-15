@@ -36,12 +36,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="INTELIJ Logo" width="50" height="50"/>
 
 
-<br /><br /><br /><br />
 ### Jokes 
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-<br /><br />
+
+
 ### Snake Animation
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
