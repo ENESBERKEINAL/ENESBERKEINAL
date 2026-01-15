@@ -37,10 +37,11 @@
 
 
 <br /><br /><br /><br />
-### Snake Animation
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 ### Jokes 
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<br /><br />
+### Snake Animation
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
